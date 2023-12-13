@@ -1,0 +1,7 @@
+C:\Users\Joel Laptop\source\repos\AppPruebaParcial_1\AppPruebaParcial_1\bin\Debug\AppPruebaParcial_1.exe.config
+C:\Users\Joel Laptop\source\repos\AppPruebaParcial_1\AppPruebaParcial_1\bin\Debug\AppPruebaParcial_1.exe
+C:\Users\Joel Laptop\source\repos\AppPruebaParcial_1\AppPruebaParcial_1\bin\Debug\AppPruebaParcial_1.pdb
+C:\Users\Joel Laptop\source\repos\AppPruebaParcial_1\AppPruebaParcial_1\obj\Debug\AppPruebaParcial_1.csproj.AssemblyReference.cache
+C:\Users\Joel Laptop\source\repos\AppPruebaParcial_1\AppPruebaParcial_1\obj\Debug\AppPruebaParcial_1.csproj.CoreCompileInputs.cache
+C:\Users\Joel Laptop\source\repos\AppPruebaParcial_1\AppPruebaParcial_1\obj\Debug\AppPruebaParcial_1.exe
+C:\Users\Joel Laptop\source\repos\AppPruebaParcial_1\AppPruebaParcial_1\obj\Debug\AppPruebaParcial_1.pdb
